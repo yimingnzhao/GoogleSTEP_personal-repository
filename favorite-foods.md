@@ -5,3 +5,6 @@
 3. Salmon Bagel 
 4. Grilled Cheese
 5. Fried Eggs
+
+![Quesadilla](images/quesadillas.jpg)
+![Salmon Begal](images/salmon_begal.jpg)
